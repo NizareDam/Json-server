@@ -2,7 +2,7 @@
 
 Etapes d'installation du package JSON-SERVER :
 
-1 - se rendre sur : https://nodejs.org/en/ et télécharger la version adéquate selon l'OS
+1 - se rendre sur : https://nodejs.org/en/ et télécharger la version adéquate selon l'OS \n
 2 - Créer un nouveau dossier C:/Users/(Nizare) intitulé jsonserver 
 3 - Se positionner sur : C:Users/Nizare/jsonserver et taper la commande : npm init 
     Quand on vous demande les informations concernant le package, taper "Entrer" pour passer
